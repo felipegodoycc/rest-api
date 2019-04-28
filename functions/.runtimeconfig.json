@@ -1,6 +1,8 @@
 {
   "mongo": {
+    "clave": "soporte",
     "username": "soporte",
+    "usuario": "soporte",
     "password": "soporte123"
   }
 }
